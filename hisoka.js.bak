@@ -29,16 +29,16 @@ const {weton,week,calender,dateIslamic} = require('./lib/functions')
 const _sewa = require('./lib/sewa')
 const { pinterest } = require('./lib/pinterest')
 const { addPlayGame, getJawabanGame, isPlayGame, cekWaktuGame, getGamePosi } = require('./lib/game');
-const hitnya = JSON.parse(fs.readFileSync('./database/hitToday.json'))
-const dash = JSON.parse(fs.readFileSync('./database/dashboard.json'))
+const hitnya = JSON.parse(fs.readFileSync('./Database/hitToday.json'))
+const dash = JSON.parse(fs.readFileSync('./Database/dashboard.json'))
 const spammer = []
-const sewa = JSON.parse(fs.readFileSync('./database/sewa.json'))
+const sewa = JSON.parse(fs.readFileSync('./Database/sewa.json'))
 const autosticker = JSON.parse(fs.readFileSync('./Database/autosticker.json'))
-let _cmdUser = JSON.parse(fs.readFileSync('./database/commandUser.json'));
-let listCmd = JSON.parse(fs.readFileSync('./database/listcmd.json'));
-let _cmd = JSON.parse(fs.readFileSync('./database/command.json'));
+let _cmdUser = JSON.parse(fs.readFileSync('./Database/commandUser.json'));
+let listCmd = JSON.parse(fs.readFileSync('./Database/listcmd.json'));
+let _cmd = JSON.parse(fs.readFileSync('./Database/command.json'));
 lang = global.language 
-let akinator = JSON.parse(fs.readFileSync('./database/akinator.json'));
+let akinator = JSON.parse(fs.readFileSync('./Database/akinator.json'));
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
@@ -52,7 +52,7 @@ let tebakkalimat = db.data.game.kalimat = []
 let tebaklirik = db.data.game.lirik = []
 let tebaktebakan = db.data.game.tebakan = []
 let vote = db.data.others.vote = []
-const user = JSON.parse(fs.readFileSync('./database/user.json'))
+const user = JSON.parse(fs.readFileSync('./Database/user.json'))
 
 //━━━━━━━━━━━━━━━[ DATABASE ]━━━━━━━━━━━━━━━━━//
 let { TelegraPh } = require('./lib/uploader')
@@ -958,7 +958,7 @@ let ments = [me, jodoh]
 let buttons = [
 { buttonId: 'jodohku', buttonText: { displayText: 'Jodohku' }, type: 1 }
 ]
-await hisoka.sendButtonText(m.chat, buttons, jawab, hisoka.user.name, m, {mentions: ments})
+await hisoka.sendButtonText(m.chat, buttons, jawab, hisoka.user.name, ftroli, {mentions: ments})
 }
 break
 case 'jadian': {
@@ -3310,7 +3310,7 @@ anu = await fetchJson(`http://api.lolhuman.xyz/api/sms/spam1?apikey=${lolkey}&no
             }
             break
             case 'owner': case 'creator': {
-                hisoka.sendContact(m.chat, global.owner, m)
+                hisoka.sendContact(m.chat, global.owner, ftroli)
             }
             break
 case 'setreply':{
