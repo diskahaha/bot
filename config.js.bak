@@ -14,8 +14,11 @@ lolkey = 'Apikey1'
 global.owner = ['6285850063401','6285850063401','6285850063401','0','6285850063401']
 global.premium = ['6285850063401']
 global.packname = 'XzyBotz-MD'
+global.dapkey = 'Kirbotz123'
+global.ntidel = ['120363043965529911@g.us']
 global.author = 'WhatsApp Bot'
 global.sessionName = 'hisoka'
+global.autred = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -31,11 +34,6 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-      "gamewaktu": 90,
-  "limitCount": 40,
-  "gcount": {
-	"prem": 9999,
-	"user": 30,
     free: 100
 }
 global.thumb = fs.readFileSync('./media/kitzuna.jpg')

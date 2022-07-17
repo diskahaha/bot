@@ -163,14 +163,14 @@ hydratedTemplate: {
               id: 'ping'
            }
          }, {
+                     quickReplyButton: {
+              displayText: 'Sewa Bot',
+              id: 'sewabot'
+           }
+         }, {
             quickReplyButton: {
             displayText: 'Owner',
              id: 'owner'
-            }  
-            }, {
-            quickReplyButton: {
-                displayText: 'Welcome 👋',
-                id: 'welcome'
             }
         }]
     }
@@ -184,7 +184,7 @@ let message = await prepareWAMessageMedia({ image: {url: ppuser }}, { upload: hi
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: Goodbay,
-                            hydratedFooterText: 'Leaving Message By Asura-Botz',
+                            hydratedFooterText: 'Leaving Message By XzyBotz',
                             hydratedButtons: [{
             quickReplyButton: {
               displayText: 'Ping',
@@ -194,11 +194,6 @@ let message = await prepareWAMessageMedia({ image: {url: ppuser }}, { upload: hi
             quickReplyButton: {
             displayText: 'Owner',
              id: 'owner'
-            }  
-            }, {
-                                quickReplyButton: {
-                                    displayText: 'GoodBye 👋',
-                                    id: `bye`
                                 }
                             }]
                         }
@@ -255,6 +250,10 @@ vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await hisoka.getName(i + '@s.whatsapp.net'
 })
 }
 hisoka.sendMessage(jid, { contacts: { displayName: `${list.length} Kontak`, contacts: list }, ...opts }, { quoted })
+}
+
+hisoka.parseMention = (text = '') => {
+return [...text.matchAll(/@([0-9]{5,16}|0)/g)].map(v => v[1] + '@s.whatsapp.net')
 }
 
 hisoka.setStatus = (status) => {
