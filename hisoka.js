@@ -58,7 +58,7 @@ const prem = JSON.parse(fs.readFileSync('./Database/premium.json'))
 const balance = JSON.parse(fs.readFileSync('./Database/balance.json'))
 const AntiSpam = JSON.parse(fs.readFileSync('./Database/antispam.json'));
 let db_respon_list = JSON.parse(fs.readFileSync('./Database/list-message.json'));
-const ban = JSON.parse(fs.readFileSync('./database/banned.json'))
+const ban = JSON.parse(fs.readFileSync('./Database/banned.json'))
 lang = global.language 
 
 let tebaklagu = db.data.game.tebaklagu = []
