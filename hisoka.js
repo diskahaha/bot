@@ -1,5 +1,5 @@
 /** 
-DELTA   * Create By BarrGans.
+DELTA   * Create By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩.
    * Contact Me on wa.me/6288292024190
    * Follow https://github.com/DikaArdnt
 */
@@ -174,7 +174,7 @@ mediaType: 3,
 renderLargerThumbnail: false, 
 showAdAttribution: true, 
 thumbnail: fs.readFileSync('./media/kitzuna.jpg'),
-sourceUrl: "https://wa.me/6285850063401"}}})
+sourceUrl: "https://wa.me/6281285578808"}}})
 }
 
 //User 
@@ -409,7 +409,7 @@ hisoka.relayMessage(m.chat, m.message, { messageId: m.id })
                                         	  ]                 
                        const buttonMessage = { 
                                     text: teks, 
-                                    footer: "Bot By BarrGans", 
+                                    footer: "Bot By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩", 
                                     templateButtons: buttonsDefault, 
                                     image: {url: thumb}                                   
                                                }
@@ -1041,11 +1041,11 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: donte,
-hydratedFooterText: 'Created By BarrGans',
+hydratedFooterText: 'Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩',
 hydratedButtons: [{
 urlButton: {
 displayText: 'MyOwner',
-url: 'https://wa.me/6285850063401'
+url: 'https://wa.me/6281285578808'
 }
 }]
 }
@@ -2285,14 +2285,14 @@ headerType: 4,
 contextInfo:{externalAdReply:{
 title:`${ucapanWaktu} ${pushname}`,
 
-body: "©Created By BarrGans",
+body: "©Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 
 jpegThumbnail: fs.readFileSync('./media/kitzuna.jpg'),
 mediaUrl: "https://github.com/DikaArdnt/Hisoka-Morou", 
 thumbnail: fs.readFileSync('./media/kitzuna.jpg'),
-sourceUrl: "https://wa.me/6285850063401"
+sourceUrl: "https://wa.me/6281285578808"
 }}
 }
 hisoka.sendMessage(m.chat, buttonMessage, { quoted: ftroli })
@@ -2347,14 +2347,14 @@ headerType: 4,
 contextInfo:{externalAdReply:{
 title:`${ucapanWaktu} ${pushname}`,
 
-body: "©Created By BarrGans",
+body: "©Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 
 jpegThumbnail: fs.readFileSync('./media/kitzuna.jpg'),
 mediaUrl: "https://github.com/DikaArdnt/Hisoka-Morou", 
 thumbnail: fs.readFileSync('./media/kitzuna.jpg'),
-sourceUrl: "https://wa.me/6285850063401"
+sourceUrl: "https://wa.me/6281285578808"
 }}
 }
 hisoka.sendMessage(m.chat, buttonMessage, { quoted: ftroli })
@@ -2553,7 +2553,7 @@ break
 case 'ovo':{
 if (isGroup) return m.reply('Fitur Ini Hanya Bisa Digunakan Di Private Chat!')
 let noshp = text
-if (isNaN(parseInt(noshp))) return m.reply(`${command} 6285850063401`)
+if (isNaN(parseInt(noshp))) return m.reply(`${command} 6281285578808`)
 const sections = [
     {
 	title: `Convert Ovo`,
@@ -2644,7 +2644,7 @@ Jika Sudah Melakukan Pemilihan Nominal, Anda Akan Dikirimkan Qris Pembayaran Dan
 Jika Anda Sudah Melakukan Pembayaran, Silahkan Tunggu 1-2 Menit Dan Melakukan Pengecekan Secara Berkala Pada Saldo Anda!.`
 const listMessage = {
   text: isian,
-  footer: "Powered By @BarrGans",
+  footer: "Powered By @@⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
   title: "━━[ Nominal saldo Ovo ]━━",
   buttonText: "Klik Disini",
   sections
@@ -2766,7 +2766,7 @@ headerType: 4,
 contextInfo:{externalAdReply:{
 title:`${ucapanWaktu} ${pushname}`,
 
-body: "©Created By BarrGans",
+body: "©Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 
@@ -2840,7 +2840,7 @@ showAdAttribution: true,
 jpegThumbnail: fs.readFileSync('./media/kitzuna.jpg'),
 mediaUrl: "https://github.com/DikaArdnt/Hisoka-Morou", 
 thumbnail: fs.readFileSync('./media/kitzuna.jpg'),
-sourceUrl: "https://wa.me/6285850063401"
+sourceUrl: "https://wa.me/6281285578808"
 }}
 }
 hisoka.sendMessage(m.chat, buttonMessage, { quoted: ftroli })
@@ -3898,7 +3898,7 @@ hydratedFooterText: 'Created By Asura Botz',
 hydratedButtons: [{
 urlButton: {
 displayText: 'MyOwner',
-url: 'https://wa.me/6285850063401'
+url: 'https://wa.me/6281285578808'
 }
 }]
 }
@@ -3965,7 +3965,7 @@ hydratedFooterText: 'Created By Asura Botz',
 hydratedButtons: [{
 urlButton: {
 displayText: 'MyOwner',
-url: 'https://wa.me/6285850063401'
+url: 'https://wa.me/6281285578808'
 }
 }]
 }
@@ -3992,7 +3992,7 @@ headerType: 4,
 contextInfo:{externalAdReply:{
 title:`${ucapanWaktu} ${pushname}`,
 
-body: "©Created By BarrGans",
+body: "©Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 
@@ -4021,7 +4021,7 @@ headerType: 4,
 contextInfo:{externalAdReply:{
 title:`${ucapanWaktu} ${pushname}`,
 
-body: "©Created By BarrGans",
+body: "©Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 
@@ -4575,14 +4575,14 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:`${ucapanWaktu} ${pushname}`,
-body: "© Created By BarrGans",
+body: "© Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 
 jpegThumbnail: fs.readFileSync('./media/kitzuna.jpg'),
 mediaUrl: "https://github.com/DikaArdnt/Hisoka-Morou", 
 thumbnail: fs.readFileSync('./media/kitzuna.jpg'),
-sourceUrl: "https://wa.me/6285850063401"
+sourceUrl: "https://wa.me/6281285578808"
 }}
 }
 hisoka.sendMessage(m.chat, buttonMessage, { quoted: ftroli })
@@ -4602,14 +4602,14 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:`${ucapanWaktu} ${pushname}`,
-body: "© Created By BarrGans",
+body: "© Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 
 jpegThumbnail: fs.readFileSync('./media/kitzuna.jpg'),
 mediaUrl: "https://github.com/DikaArdnt/Hisoka-Morou", 
 thumbnail: fs.readFileSync('./media/kitzuna.jpg'),
-sourceUrl: "https://wa.me/6285850063401"
+sourceUrl: "https://wa.me/6281285578808"
 }}
 }
 hisoka.sendMessage(m.chat, buttonMessage, { quoted: ftroli })
@@ -6846,7 +6846,7 @@ headerType: 4,
 contextInfo:{externalAdReply:{
 title:`${ucapanWaktu} ${pushname}`,
 
-body: "©Created By BarrGans",
+body: "©Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 
@@ -6874,7 +6874,7 @@ headerType: 4,
 contextInfo:{externalAdReply:{
 title:`${ucapanWaktu} ${pushname}`,
 
-body: "©Created By BarrGans",
+body: "©Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 
@@ -6902,7 +6902,7 @@ headerType: 4,
 contextInfo:{externalAdReply:{
 title:`${ucapanWaktu} ${pushname}`,
 
-body: "©Created By BarrGans",
+body: "©Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 
@@ -6965,11 +6965,11 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: `Gelap Bos:v`,
-hydratedFooterText: 'Created By BarrGans',
+hydratedFooterText: 'Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩',
 hydratedButtons: [{
 urlButton: {
 displayText: 'MyOwner',
-url: 'https://wa.me/6285850063401'
+url: 'https://wa.me/6281285578808'
 }
 },
 {"quickReplyButton": {"displayText": "Next","id": `${prefix+command}`}}]
@@ -6991,11 +6991,11 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: `Gelap Bos:v`,
-hydratedFooterText: 'Created By BarrGans',
+hydratedFooterText: 'Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩',
 hydratedButtons: [{
 urlButton: {
 displayText: 'MyOwner',
-url: 'https://wa.me/6285850063401'
+url: 'https://wa.me/6281285578808'
 }
 },
 {"quickReplyButton": {"displayText": "Next","id": `${prefix+command}`}}]
@@ -7018,11 +7018,11 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: `Done Banh`,
-hydratedFooterText: 'Created By BarrGans',
+hydratedFooterText: 'Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩',
 hydratedButtons: [{
 urlButton: {
 displayText: 'MyOwner',
-url: 'https://wa.me/6285850063401'
+url: 'https://wa.me/6281285578808'
 }
 },
 {"quickReplyButton": {"displayText": "Next","id": `${prefix+command}`}}]
@@ -7044,11 +7044,11 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: `Gelap Bos:v`,
-hydratedFooterText: 'Created By BarrGans',
+hydratedFooterText: 'Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩',
 hydratedButtons: [{
 urlButton: {
 displayText: 'MyOwner',
-url: 'https://wa.me/6285850063401'
+url: 'https://wa.me/6281285578808'
 }
 },
 {"quickReplyButton": {"displayText": "Next","id": `${prefix+command}`}}]
@@ -7088,7 +7088,7 @@ headerType: 4,
 contextInfo:{externalAdReply:{
 title:`${ucapanWaktu} ${pushname}`,
 
-body: "©Created By BarrGans",
+body: "©Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 
@@ -7626,7 +7626,7 @@ ${readmore}
  ➭ TotalUser: ${Object.keys(global.db.data.users).length}
  ➭ Total Feature : ${totalFitur()}
 ${readmore}.`
-let timb = 'https://wa.me/6285850063401'
+let timb = 'https://wa.me/6281285578808'
 let butts = [
 {buttonId: '.owner', buttonText: {displayText: 'Owner'}, type: 1},
 {buttonId: '.ping', buttonText: {displayText: 'Speed'}, type: 1}
@@ -7643,7 +7643,7 @@ headerType: 4,
 contextInfo:{externalAdReply:{
 title:`${ucapanWaktu} ${pushname}`,
 
-body: "©Created By BarrGans",
+body: "©Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 
@@ -7689,7 +7689,7 @@ displayText: 'Speed',
 id: '#ping'
 }  
 }]
-let timb = 'https://wa.me/6285850063401'
+let timb = 'https://wa.me/6281285578808'
 let butts = [
 {buttonId: '.owner', buttonText: {displayText: 'Owner'}, type: 1},
 {buttonId: '.ping', buttonText: {displayText: 'Speed'}, type: 1}
@@ -7706,12 +7706,12 @@ buttons: butts,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title:`${ucapanWaktu} ${pushname}`,
-body: "©Created By BarrGans",
+body: "©Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 mediaType: 3,
 renderLargerThumbnail: false, 
 showAdAttribution: true, 
 thumbnail: fs.readFileSync('./media/kitzuna.jpg'),
-sourceUrl: "https://wa.me/6285850063401"
+sourceUrl: "https://wa.me/6281285578808"
 }}
 }
 await hisoka.sendPresenceUpdate('composing', m.chat) // gw tambahin auto ketiknya :v, dibagian menu doang sih
@@ -7747,7 +7747,7 @@ displayText: 'Speed',
 id: '#ping'
 }  
 }]
-let timb = 'https://wa.me/6285850063401'
+let timb = 'https://wa.me/6281285578808'
 let butts = [
 {buttonId: '.owner', buttonText: {displayText: 'Owner'}, type: 1},
 {buttonId: '.ping', buttonText: {displayText: 'Speed'}, type: 1}
@@ -7770,7 +7770,7 @@ mediaType: 3,
 renderLargerThumbnail: false, 
 showAdAttribution: true, 
 thumbnail: fs.readFileSync('./media/kitzuna.jpg'),
-sourceUrl: "https://wa.me/6285850063401"
+sourceUrl: "https://wa.me/6281285578808"
 }}
 }
 await hisoka.sendPresenceUpdate('composing', m.chat) // gw tambahin auto ketiknya :v, dibagian menu doang sih
@@ -7805,7 +7805,7 @@ displayText: 'Speed',
 id: '#ping'
 }  
 }]
-let timb = 'https://wa.me/6285850063401'
+let timb = 'https://wa.me/6281285578808'
 let butts = [
 {buttonId: '.owner', buttonText: {displayText: 'Owner'}, type: 1},
 {buttonId: '.ping', buttonText: {displayText: 'Speed'}, type: 1}
@@ -7828,7 +7828,7 @@ mediaType: 3,
 renderLargerThumbnail: false, 
 showAdAttribution: true, 
 thumbnail: fs.readFileSync('./media/kitzuna.jpg'),
-sourceUrl: "https://wa.me/6285850063401"
+sourceUrl: "https://wa.me/6281285578808"
 }}
 }
 await hisoka.sendPresenceUpdate('composing', m.chat) // gw tambahin auto ketiknya :v, dibagian menu doang sih
@@ -7891,7 +7891,7 @@ displayText: 'Speed',
 id: '#ping'
 }  
 }]
-let timb = 'https://wa.me/6285850063401'
+let timb = 'https://wa.me/6281285578808'
 let butts = [
 {buttonId: '.owner', buttonText: {displayText: 'Owner'}, type: 1},
 {buttonId: '.payment', buttonText: {displayText: 'Payment'}, type: 1}
@@ -7915,7 +7915,7 @@ mediaType: 3,
 renderLargerThumbnail: false, 
 showAdAttribution: true, 
 thumbnail: fs.readFileSync('./media/kitzuna.jpg'),
-sourceUrl: "https://wa.me/6285850063401"
+sourceUrl: "https://wa.me/6281285578808"
 }}
 }
 await hisoka.sendPresenceUpdate('composing', m.chat) // gw tambahin auto ketiknya :v, dibagian menu doang sih
@@ -8001,109 +8001,21 @@ anu = ` *${week}, ${calender}*
 ➭  ${prefix}demote
 ➭  ${prefix}profile
 
-❒『 Logo Menu 』❒
-➭  ${prefix}candy
-➭  ${prefix}3dchristmas
-➭  ${prefix}sparklechristmas
-➭  ${prefix}deepsea
-➭  ${prefix}scifi
-➭  ${prefix}rainbow
-➭  ${prefix}waterpipe
-➭  ${prefix}spooky 
-➭  ${prefix}pencil
-➭  ${prefix}circuit
-➭  ${prefix}discovery
-➭  ${prefix}metalic
-➭  ${prefix}fiction
-➭  ${prefix}demon 
-➭  ${prefix}transformer
-➭  ${prefix}berry
-➭  ${prefix}magma
-➭  ${prefix}3dstone 
-➭  ${prefix}brokenglass
-➭  ${prefix}papercut 
-➭  ${prefix}graffitibike
-➭  ${prefix}honey
-➭  ${prefix}ice
-➭  ${prefix}fruitjuice
-➭  ${prefix}biscuit
-➭  ${prefix}wood 
-➭  ${prefix}chocolate
-➭  ${prefix}matrix
-➭  ${prefix}blood
-➭  ${prefix}dropwater
-➭  ${prefix}lava
-➭  ${prefix}rock
-➭  ${prefix}bloodglas
-➭  ${prefix}hallowen
-➭  ${prefix}darkgold
-➭  ${prefix}joker
-➭  ${prefix}wicker
-➭  ${prefix}firework
-➭  ${prefix}skeleton
-➭  ${prefix}sand
-➭  ${prefix}glue
-
- ❒『 Downloader Menu 』❒
-➭  ${prefix}tiktok
-➭  ${prefix}tiktokaudio
-➭  ${prefix}ytmp3
-➭  ${prefix}ytmp4
-➭  ${prefix}igstalk
-➭  ${prefix}xnxxsearch <query>
-➭  ${prefix}xnxxvideo <link>
-➭  ${prefix}spotify <link>
-➭  ${prefix}spotifysearch <query>
-➭  ${prefix}jooxplay <query>
-➭  ${prefix}zippysearch <link>
-➭  ${prefix}tiktokstalk
-➭  ${prefix}githubstalk
-➭  ${prefix}getmusic
-➭  ${prefix}getvideo
-➭  ${prefix}getname
-➭  ${prefix}getppgc
-
-❒『 Search Menu 』❒
-➭  ${prefix}play
-➭  ${prefix}yts
-➭  ${prefix}lirik
-➭  ${prefix}gimage
-➭  ${prefix}pinterest
-➭  ${prefix}wallpaper
-➭  ${prefix}wikimedia
-➭  ${prefix}ytsearch
-
-❒『 Cecan Menu 』❒
-➭  ${prefix}cecan
-➭  ${prefix}chinese
-➭  ${prefix}indonesia
-➭  ${prefix}japan
-➭  ${prefix}korea
-➭  ${prefix}malaysia
-➭  ${prefix}ptl
-➭  ${prefix}thailand
-➭  ${prefix}vietnam
-
-❒『 Video Menu 』❒
-➭  ${prefix}ghea
-➭  ${prefix}ukty
-➭  ${prefix}asupan
-➭  ${prefix}rikagusriani
-➭  ${prefix}bokep
-➭  ${prefix}bocil
-
-❒『 Hewan Menu 』❒
-➭  ${prefix}fox
-➭  ${prefix}dog
-➭  ${prefix}panda
-➭  ${prefix}panda2
-➭  ${prefix}bird
-➭  ${prefix}koala
-➭  ${prefix}whale
-➭  ${prefix}raccon
-➭  ${prefix}cat
-➭  ${prefix}kanguru
-➭  ${prefix}goose
+❒『 Fun Menu 』❒
+➭  ${prefix}simih
+➭  ${prefix}halah
+➭  ${prefix}hilih
+➭  ${prefix}huluh
+➭  ${prefix}heleh
+➭  ${prefix}holoh
+➭  ${prefix}jadian
+➭  ${prefix}jodohku
+➭  ${prefix}delttt
+➭  ${prefix}tictactoe
+➭  ${prefix}family100
+➭  ${prefix}tebak]
+➭  ${prefix}math
+➭  ${prefix}suitpvp
 
 ❒『 Game Menu 』❒
 ➭  ${prefix}cekbapak
@@ -8150,319 +8062,14 @@ anu = ` *${week}, ${calender}*
 ➭  ${prefix}tebak lirik
 ➭  ${prefix}tebak lontong
 
-❒『 Random Image 』❒
-➭  ${prefix}aesthetic
-➭  ${prefix}bonekachucky
-➭  ${prefix}wallpaperhacker
-➭  ${prefix}wallpaperpubg
-➭  ${prefix}wallpaperislamic
-➭  ${prefix}teknologi
-➭  ${prefix}mountain
-➭  ${prefix}cyberspace
-➭  ${prefix}programming
-➭  ${prefix}darkjokes
-➭  ${prefix}meme
-➭  ${prefix}hsdxd
-➭  ${prefix}doraemon
-➭  ${prefix}pentol
-➭  ${prefix}motor
-➭  ${prefix}renungan
-➭  ${prefix}pokemon
-➭  ${prefix}tatasurya
-
-❒『 Text Pro Menu 』❒
-➭  ${prefix}3dchristmas
-➭  ${prefix}3ddeepsea
-➭  ${prefix}americanflag
-➭  ${prefix}3dscifi
-➭  ${prefix}3drainbow
-➭  ${prefix}3dwaterpipe
-➭  ${prefix}halloweenskeleton
-➭  ${prefix}sketch
-➭  ${prefix}bluecircuit
-➭  ${prefix}space
-➭  ${prefix}metallic
-➭  ${prefix}fiction
-➭  ${prefix}greenhorror
-➭  ${prefix}transformer
-➭  ${prefix}berry
-➭  ${prefix}thunder
-➭  ${prefix}magma
-➭  ${prefix}3dcrackedstone
-➭  ${prefix}3dneonlight
-➭  ${prefix}impressiveglitch
-➭  ${prefix}naturalleaves
-➭  ${prefix}fireworksparkle
-➭  ${prefix}matrix
-➭  ${prefix}dropwater
-➭  ${prefix}harrypotter
-➭  ${prefix}foggywindow
-➭  ${prefix}neondevils
-➭  ${prefix}christmasholiday
-➭  ${prefix}3dgradient
-➭  ${prefix}blackpink
-➭  ${prefix}gluetext
-
-❒『 Ephoto Menu 』❒
-➭  ${prefix}1917
-➭  ${prefix}3d-crack-text-effect-online
-➭  ${prefix}3d-underwater
-➭  ${prefix}3d-wood
-➭  ${prefix}3d-wood2
-➭  ${prefix}3damerican-flag
-➭  ${prefix}3dgalaxy-metal
-➭  ${prefix}3dglue-realistic
-➭  ${prefix}3dgold
-➭  ${prefix}3dgradient
-➭  ${prefix}3dgradient2
-➭  ${prefix}3dmetal-effect
-➭  ${prefix}3dmetal-text
-➭  ${prefix}3dmulticolor-papercut
-➭  ${prefix}3dpig-gif
-➭  ${prefix}3drose-gold
-➭  ${prefix}3druby-stone
-➭  ${prefix}3dsand-engraved
-➭  ${prefix}3dshiny-metallic
-➭  ${prefix}3dsilver
-➭  ${prefix}3dspace
-➭  ${prefix}3dsparkle-christmas
-➭  ${prefix}3dsub-zombie
-➭  ${prefix}3dtext-effect
-➭  ${prefix}3dtext-effect2
-➭  ${prefix}3dtext-effect3
-➭  ${prefix}3dtext-pig
-➭  ${prefix}3dvalentine-cards
-➭  ${prefix}3dvintage-light-bulb
-➭  ${prefix}3dxmas-cards
-➭  ${prefix}3dxmas-cards2
-➭  ${prefix}83day-card
-➭  ${prefix}83day-card2
-➭  ${prefix}83day-card3
-➭  ${prefix}83day-card4
-➭  ${prefix}advanced-glow
-➭  ${prefix}ahri-league-of-legends
-➭  ${prefix}alice-league-of-kings
-➭  ${prefix}amily-arena-of-valor
-➭  ${prefix}angels-wings
-➭  ${prefix}anonymous-neon
-➭  ${prefix}art-shader
-➭  ${prefix}avengers
-➭  ${prefix}azzenka-league-of-kings
-➭  ${prefix}balloon-noel
-➭  ${prefix}balloon-text
-➭  ${prefix}balloons-cards
-➭  ${prefix}balloons-love
-➭  ${prefix}art-shader
-➭  ${prefix}bear
-➭  ${prefix}bear2
-➭  ${prefix}bee
-➭  ${prefix}birthday-cake1
-➭  ${prefix}birthday-cake2
-➭  ${prefix}birthday-cake3
-➭  ${prefix}birthday-cake4
-➭  ${prefix}birthday-cake5
-➭  ${prefix}birthday-cake6
-➭  ${prefix}birthday-cake7
-➭  ${prefix}birthday-cake8
-➭  ${prefix}birthday-cake9
-➭  ${prefix}birthday-cake10
-➭  ${prefix}birthday-cards
-➭  ${prefix}birthdayfoil-balloon
-➭  ${prefix}blackpink
-➭  ${prefix}blackpink-neon
-➭  ${prefix}blackskin-snake
-➭  ${prefix}blood-steel
-➭  ${prefix}blood-frosted
-➭  ${prefix}blood-text
-➭  ${prefix}blood-text2
-➭  ${prefix}blood-wall
-➭  ${prefix}blue-effect
-➭  ${prefix}blue-neon
-➭  ${prefix}blueglass-effect
-➭  ${prefix}bokeh-text
-➭  ${prefix}boom-comic
-➭  ${prefix}broken-glass
-➭  ${prefix}buffalo
-➭  ${prefix}bulb-effect
-➭  ${prefix}bull
-➭  ${prefix}cake-text
-➭  ${prefix}cake-text2
-➭  ${prefix}cake-text3
-➭  ${prefix}candy-text
-➭  ${prefix}captain-america
-➭  ${prefix}card-christmas
-➭  ${prefix}card-christmas2
-➭  ${prefix}cartoon-graffiti
-
-❒『 Foto Funia Menu 』❒
-➭  ${prefix}airline
-➭  ${prefix}arrow-signs
-➭  ${prefix}balloon
-➭  ${prefix}beach-sign
-➭  ${prefix}birthday-cake
-➭  ${prefix}beach-sign
-➭  ${prefix}blood_writing
-➭  ${prefix}books
-➭  ${prefix}bracelet
-➭  ${prefix}cemetery-gates
-➭  ${prefix}chalkboard
-➭  ${prefix}christmas-writing
-➭  ${prefix}cinema-ticket
-➭  ${prefix}cookies_writing
-➭  ${prefix}cross_stitch_text
-➭  ${prefix}denim-emdroidery
-➭  ${prefix}einstein
-➭  ${prefix}foggy_window_writing
-➭  ${prefix}fortune-cookie
-➭  ${prefix}frosty-window-writing
-➭  ${prefix}haunted-hotel
-➭  ${prefix}heart_tattoo
-➭  ${prefix}lifebuoy
-➭  ${prefix}light-graffiti
-➭  ${prefix}lipstick-writing
-➭  ${prefix}love-lock
-➭  ${prefix}movie_marquee
-➭  ${prefix}neon
-➭  ${prefix}neon-writing
-➭  ${prefix}nightmare-writing
-➭  ${prefix}noir
-➭  ${prefix}pendant
-➭  ${prefix}plane-banner
-➭  ${prefix}retro-wave
-➭  ${prefix}sand_writing
-➭  ${prefix}snow_writing
-➭  ${prefix}snow-sign
-➭  ${prefix}soup_letters
-➭  ${prefix}street-sign
-➭  ${prefix}surfing-board
-➭  ${prefix}tree_carving
-➭  ${prefix}typewriter
-➭  ${prefix}water-writing
-➭  ${prefix}watercolour-text
-➭  ${prefix}wooden_sign
-➭  ${prefix}yacht
-
-❒『 Anime Menu 』❒
-➭  ${prefix}waifu
-➭  ${prefix}neko
-➭  ${prefix}shinobu
-➭  ${prefix}megumin
-➭  ${prefix}cosplay
-➭  ${prefix}shota
-➭  ${prefix}loli
-➭  ${prefix}husbu
-➭  ${prefix}ppcp
-➭  ${prefix}wallml
-➭  ${prefix}shinomiya
-➭  ${prefix}yumeko
-➭  ${prefix}tejina
-➭  ${prefix}chiho
-➭  ${prefix}baruto
-➭  ${prefix}kaori
-➭  ${prefix}shizuka
-➭  ${prefix}kaga
-➭  ${prefix}kotori
-➭  ${prefix}mikasa
-➭  ${prefix}akiyama
-➭  ${prefix}gremory
-➭  ${prefix}isuzu
-➭  ${prefix}shina
-➭  ${prefix}kagura
-➭  ${prefix}shinka
-➭  ${prefix}eba
-➭  ${prefix}elaina
-➭  ${prefix}yuri
-➭  ${prefix}erza
-➭  ${prefix}hinata
-➭  ${prefix}minato
-➭  ${prefix}naruto
-➭  ${prefix}sagiri
-➭  ${prefix}nezuko
-➭  ${prefix}rize
-➭  ${prefix}anna
-➭  ${prefix}deidara
-➭  ${prefix}yuki
-➭  ${prefix}asuna
-➭  ${prefix}ayuzawa
-➭  ${prefix}chitoge
-➭  ${prefix}emilia
-➭  ${prefix}hestia
-➭  ${prefix}inori
-➭  ${prefix}itachi
-➭  ${prefix}madara
-➭  ${prefix}sakura
-➭  ${prefix}sasuke
-➭  ${prefix}akira
-➭  ${prefix}itori
-➭  ${prefix}kurumi
-➭  ${prefix}miku
-
- ❒『 Nsfw Menu 』❒
-➭  ${prefix}nsfwloli
-➭  ${prefix}ahegao
-➭  ${prefix}ass
-➭  ${prefix}bdsm
-➭  ${prefix}blowjob
-➭  ${prefix}cuckold
-➭  ${prefix}cum
-➭  ${prefix}ero
-➭  ${prefix}femdom
-➭  ${prefix}foot
-➭  ${prefix}gangbanh
-➭  ${prefix}glasses
-➭  ${prefix}hentai
-➭  ${prefix}jahy
-➭  ${prefix}manga
-➭  ${prefix}mstb
-➭  ${prefix}neko
-➭  ${prefix}neko2
-➭  ${prefix}orgy
-➭  ${prefix}panties
-➭  ${prefix}pussy
-➭  ${prefix}tentacles
-➭  ${prefix}things
-➭  ${prefix}yuri
-➭  ${prefix}zettai
-
 ❒『 Random Menu 』❒
 ➭  ${prefix}namapeople
 ➭  ${prefix}faktaunik
 ➭  ${prefix}katabijak
 ➭  ${prefix}pantun
 ➭  ${prefix}bucin
-➭  ${prefix}hxdxd
 ➭  ${prefix}quotes
 ➭  ${prefix}randomnama
-➭  ${prefix}cry
-➭  ${prefix}kill
-➭  ${prefix}hug
-➭  ${prefix}pat
-➭  ${prefix}lick
-➭  ${prefix}kiss
-➭  ${prefix}bite
-➭  ${prefix}yeet
-➭  ${prefix}bully
-➭  ${prefix}bonk
-➭  ${prefix}wink
-➭  ${prefix}poke
-➭  ${prefix}nom
-➭  ${prefix}slap
-➭  ${prefix}smile
-➭  ${prefix}wave
-➭  ${prefix}awoo
-➭  ${prefix}blush
-➭  ${prefix}smug
-➭  ${prefix}glomp
-➭  ${prefix}happy
-➭  ${prefix}dance
-➭  ${prefix}cringe
-➭  ${prefix}cuddle
-➭  ${prefix}highfive
-➭  ${prefix}handhold
-➭  ${prefix}dadu
-➭  ${prefix}patrick
-➭  ${prefix}amongus
-➭  ${prefix}gawrgura
 ➭  ${prefix}anjing
 ➭  ${prefix}bucinstick
 
@@ -8549,42 +8156,6 @@ anu = ` *${week}, ${calender}*
 ➭  ${prefix}sound79
 ➭  ${prefix}sound80
 
-❒『 News Menu 』❒
-➭  ${prefix}antara
-➭  ${prefix}bbc
-➭  ${prefix}cnbc
-➭  ${prefix}cnn
-➭  ${prefix}daily
-➭  ${prefix}detik
-➭  ${prefix}fajar
-
- ❒『 Nsfw Menu 』❒
-➭  ${prefix}nsfwloli
-➭  ${prefix}ahegao
-➭  ${prefix}ass
-➭  ${prefix}bdsm
-➭  ${prefix}blowjob
-➭  ${prefix}cuckold
-➭  ${prefix}cum
-➭  ${prefix}ero
-➭  ${prefix}femdom
-➭  ${prefix}foot
-➭  ${prefix}gangbanh
-➭  ${prefix}glasses
-➭  ${prefix}hentai
-➭  ${prefix}jahy
-➭  ${prefix}manga
-➭  ${prefix}mstb
-➭  ${prefix}neko
-➭  ${prefix}neko2
-➭  ${prefix}orgy
-➭  ${prefix}panties
-➭  ${prefix}pussy
-➭  ${prefix}tentacles
-➭  ${prefix}things
-➭  ${prefix}yuri
-➭  ${prefix}zettai
-
 ❒『 Random Menu 』❒
 ➭  ${prefix}namapeople
 ➭  ${prefix}faktaunik
@@ -8626,35 +8197,6 @@ anu = ` *${week}, ${calender}*
 ➭  ${prefix}anjing
 ➭  ${prefix}bucinstick
 
-❒『 Media Menu 』❒
-➭  ${prefix}ssweb
-➭  ${prefix}carbon2
-➭  ${prefix}carbon3
-➭  ${prefix}nukiskiri
-➭  ${prefix}nukiskanan
-➭  ${prefix}foliokiri
-➭  ${prefix}foliokanan
-➭  ${prefix}gsuggest
-➭  ${prefix}quotemaker
-➭  ${prefix}quotemaker2
-➭  ${prefix}quotemaker3
-
-❒『 Fun Menu 』❒
-➭  ${prefix}simih
-➭  ${prefix}halah
-➭  ${prefix}hilih
-➭  ${prefix}huluh
-➭  ${prefix}heleh
-➭  ${prefix}holoh
-➭  ${prefix}jadian
-➭  ${prefix}jodohku
-➭  ${prefix}delttt
-➭  ${prefix}tictactoe
-➭  ${prefix}family100
-➭  ${prefix}tebak]
-➭  ${prefix}math
-➭  ${prefix}suitpvp
-
  ❒『 Convert Menu 』❒
 ➭  ${prefix}attp
 ➭  ${prefix}ttp
@@ -8676,25 +8218,10 @@ anu = ` *${week}, ${calender}*
 ➭  ${prefix}smeme
 ➭  ${prefix}swm
 
-❒『 Other Menu 』❒
-➭  ${prefix}nenen
-➭  ${prefix}simp
-➭  ${prefix}bitly [url]
-➭  ${prefix}cuttly [url]
-➭  ${prefix}tinyurl [url]
-➭  ${prefix}shorturl [url]
-➭  ${prefix}translate
-
  ❒『 Main Menu 』❒
-➭  ${prefix}ping
 ➭  ${prefix}owner
-➭  ${prefix}menu / ${prefix}help / ${prefix}?
-➭  ${prefix}infochat
-➭  ${prefix}quoted
-➭  ${prefix}listpc
 ➭  ${prefix}listgc
 ➭  ${prefix}listonline
-➭  ${prefix}speedtest
 
 ❒『 Database Menu 』❒
 ➭  ${prefix}setcmd
@@ -8711,32 +8238,6 @@ anu = ` *${week}, ${calender}*
 ➭  ${prefix}start
 ➭  ${prefix}next
 ➭  ${prefix}keluar
-
- ❒『 Islamic Menu 』❒
-➭  ${prefix}iqra
-➭  ${prefix}hadist
-➭  ${prefix}alquran
-➭  ${prefix}juzamma
-➭  ${prefix}kisahnabi
-➭  ${prefix}doaharian
-➭  ${prefix}tafsirsurah
-➭  ${prefix}surahpendek
-➭  ${prefix}asmaulhusna
-➭  ${prefix}alkitab-search
-
- ❒『 Sticker Efek 』❒
-➭  ${prefix}wasted
-➭  ${prefix}joke
-➭  ${prefix}hitler
-➭  ${prefix}wanted
-➭  ${prefix}greyscale
-➭  ${prefix}trash
-➭  ${prefix}cicle
-➭  ${prefix}blur
-➭  ${prefix}sepia
-➭  ${prefix}invert
-➭  ${prefix}affect
-➭  ${prefix}picture
 
 ❒『 Voice Changer 』❒
 ➭  ${prefix}bass
@@ -8762,7 +8263,7 @@ displayText: 'Speed',
 id: '#ping'
 }  
 }]
-let timb = 'https://wa.me/6285850063401'
+let timb = 'https://wa.me/6281285578808'
 let butts = [
 {buttonId: '.owner', buttonText: {displayText: 'ᴏᴡɴᴇʀ'}, type: 1},
 {buttonId: '.ping', buttonText: {displayText: 'ꜱᴘᴇᴇᴅ'}, type: 1}
@@ -8780,14 +8281,14 @@ headerType: 4,
 contextInfo:{externalAdReply:{
 title:`${ucapanWaktu} ${pushname}`,
 
-body: "©Created By BarrGans",
+body: "©Created By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 
 jpegThumbnail: fs.readFileSync('./media/kitzuna.jpg'),
 mediaUrl: "https://github.com/DikaArdnt/Hisoka-Morou", 
 thumbnail: fs.readFileSync('./media/kitzuna.jpg'),
-sourceUrl: "https://wa.me/6285850063401"
+sourceUrl: "https://wa.me/6281285578808"
 }}
 }
 await hisoka.sendPresenceUpdate('composing', m.chat) // gw tambahin auto ketiknya :v, dibagian menu doang sih
