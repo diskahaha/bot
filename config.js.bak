@@ -11,25 +11,27 @@ const chalk = require('chalk')
 //━━━━━━━━━━━━━━━[ APIKEY TERPISAH ]━━━━━━━━━━━━━━━━━//
 lolkey = 'Apikey1'
 //━━━━━━━━━━━━━━━[ SETTINGS ]━━━━━━━━━━━━━━━━━//
-global.owner = ['6285850063401','6285850063401','6285850063401','0','6285850063401']
-global.premium = ['6285850063401']
-global.packname = 'XzyBotz-MD'
+global.owner = ['6281285578808','6281285578808','6281285578808','0','6281285578808']
+global.premium = ['6281285578808']
+global.packname = '𝕭𝖔𝖙 • Andii ༢࿔ྀ'
+global.namabotnya = '𝕭𝖔𝖙 • Andii ༢࿔ྀ'
+global.namaownernya = '𝕭𝖔𝖙 • Andii ༢࿔ྀ'
 global.dapkey = 'Kirbotz123'
 global.ntidel = ['120363043965529911@g.us']
-global.author = 'WhatsApp Bot'
+global.author = '𝕭𝖔𝖙 • Andii∅ ༢࿔ྀ'
 global.sessionName = 'hisoka'
 global.autred = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Ｓｕｃｃｅｓ．．．',
+    success: 'Ｓｕｃｃｅｓ Kntl 🤧．．．',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: '📩 𝑫𝒂𝒕𝒂 𝑰𝒏 𝑷𝒓𝒐𝒄𝒆𝒔𝒔, 𝑷𝒍𝒆𝒂𝒔𝒆 𝑾𝒂𝒊𝒕 𝑨 𝑴𝒊𝒏𝒖𝒕𝒆',
+    wait: 'Iya Sabar Lah Ajg 🤧',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
