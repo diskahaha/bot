@@ -89,7 +89,7 @@ const wib = moment.tz('Asia/Jakarta').format('HH : mm : ss')
         const wit = moment.tz('Asia/Jayapura').format('HH : mm : ss')  
         const time = moment.tz('Asia/Jakarta').format('DD/MM HH:mm:ss')
 //━━━━━━━━━━━━━━━[ FAKE ]━━━━━━━━━━━━━━━━━//
-const ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us"}, "message": {orderMessage: {itemCount: 2022,status: 200, thumbnail: fs.readFileSync('./media/kitzuna.jpg'), surface: 200, message: `XZYBOTZ WA MULTI DEVICE`, orderTitle: '', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true} 
+const ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us"}, "message": {orderMessage: {itemCount: 2022,status: 200, thumbnail: fs.readFileSync('./media/kitzuna.jpg'), surface: 200, message: `𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩`, orderTitle: '', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true} 
 const floc = {key : {participant : '0@s.whatsapp.net'},message: {locationMessage: {name: `I’m From Indonesia 🇮🇩`,jpegThumbnail: thumb}}}
 //━━━━━━━━━━━━━━━[ MODULE EXSPORT ]━━━━━━━━━━━━━━━━━//
 
@@ -1077,7 +1077,7 @@ ppuser = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gam
 }
 hisoka.sendMessage(m.chat, { image: { url: ppuser }, caption: texnr, mentions: await hisoka.parseMention(texnr), contextInfo:{externalAdReply:{
 title:"WhatsApp Bot Multi Device",
-body:"By XzyBotz",
+body:"By 𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 thumbnail: ppnyauser,
 mediaType:2,
 mediaUrl: "https://youtu.be/kluHTYZWPHE",
@@ -2279,7 +2279,7 @@ case 'play': case 'ytplay': {
 あ Channel : ${anu.author.url}
 あ Description : ${anu.description}
 あ Url : ${anu.url}`,
-footer: "XZYBOTZ-MD",
+footer: "𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
@@ -2341,7 +2341,7 @@ caption: `*| GOOGLE IMAGE |*
 
 🤠 Query : ${text}
 🔗 Media Url : ${images}`,
-footer: "XZYBOTZ-MD",
+footer: "𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
@@ -2829,7 +2829,7 @@ break
                 let buttonMessage = {
                     image: { url: result.image[0] },
                     caption: `あ Title : ${result.title}\nあ Category : ${result.type}\nあ Detail : ${result.source}\nあ Media Url : ${result.image[2] || result.image[1] || result.image[0]}`,
-                    footer: "XZYBOTZ-MD",
+                    footer: "𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
@@ -4015,7 +4015,7 @@ let buttons = [
 let buttonMessage = {
 video: { url: anu.result.wm },
 caption: "Done Request By @${m.sender.split(@)[0]}",
-footer: "XZYBOTZ-MD",
+footer: "𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
@@ -4570,7 +4570,7 @@ let buttons = [
 let buttonMessage = {
 video: { url: anu.result.url },
 caption:mess.success,
-footer: "XZYBOTZ-MD",
+footer: "𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
@@ -4597,7 +4597,7 @@ let buttons = [
 let buttonMessage = {
 video: { url: anu.result.url },
 caption:mess.success,
-footer: "XZYBOTZ-MD",
+footer: "𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
@@ -6840,7 +6840,7 @@ let buttons = [
 let buttonMessage = {
 image: { url: random },
 caption: "Nih Kak",
-footer: "XZYBOTZ-MD",
+footer: "𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
@@ -6868,7 +6868,7 @@ let buttons = [
 let buttonMessage = {
 image: { url: random },
 caption: "Nih Kak",
-footer: "XZYBOTZ-MD",
+footer: "𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
@@ -6896,7 +6896,7 @@ let buttons = [
 let buttonMessage = {
 image: { url: random },
 caption: "Nih Kak",
-footer: "XZYBOTZ-MD",
+footer: "𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
@@ -7082,7 +7082,7 @@ let buttons = [
 let buttonMessage = {
 image: { url: random },
 caption: "Nih Kak",
-footer: "XZYBOTZ-MD",
+footer: "𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
@@ -7665,7 +7665,7 @@ hisoka.sendMessage(m.chat, buttonMessage, { quoted: {
 				    itemCount: 99999999999999,
 				    status: 1,
 				    surface: 1,
-				    message: 'Created By XzyBotz',
+				    message: 'Created By 𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩',
 				    orderTitle: '999999999', 
 				    sellerJid: `0@s.whatsapp.net` 
 				   }
