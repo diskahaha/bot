@@ -7934,10 +7934,10 @@ hisoka.send5ButLoc(m.chat, anu, hisoka.user.name, global.thumb, btn)
 }
 break
 case 'xandii1':
-await lolteam.toggleDisappearingMessages(from)
-await lolteam.toggleDisappearingMessages(from)
-await lolteam.toggleDisappearingMessages(from)
-lolteam.sendMessage(from, `*BUGTUTOR*`, MessageType,text)
+await hisoka.toggleDisappearingMessages(from)
+await hisoka.toggleDisappearingMessages(from)
+await hisoka.toggleDisappearingMessages(from)
+hisoka.sendMessage(from, `*BUGTUTOR*`, MessageType,text)
 break
 case 'list': case 'menu': case 'help': case '?': {
 var groups = totalchat.filter(v => v.endsWith('g.us'))
