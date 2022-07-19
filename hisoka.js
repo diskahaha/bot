@@ -1091,7 +1091,7 @@ case 'jagocek':case 'nolepcek':case 'babicek':case 'bebancek':case 'baikcek':
 case 'jahatcek':case 'anjingcek':case 'haramcek':case 'pakboycek':
 case 'pakgirlcek':case 'sangecek': case 'bapercek':case 'fakboycek':case 'alimcek':case 'suhucek':
 case 'fakgirlcek':case 'kerencek':case 'wibucek':case 'pasarkascek':
-if (args.length < 1) return m.reply(`Contoh : ${prefix + command} Barr`)
+if (args.length < 1) return m.reply(`Contoh : ${prefix + command} Nick Nya Mana Idiot? Contoh @𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩`)
 cantik = body.slice(1)
 const eyy =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
 const yn = eyy[Math.floor(Math.random() * eyy.length)]
@@ -1320,7 +1320,7 @@ case 'list':
             }
 const listMessage = {
   text: `${ucapanWaktu} ${pushname} 👋\n\nBerikut Adalah List Item\nSilahkan Pilih Salah Satu!\n🗓 Tanggal : ${tanggal}\n🕰 Jam : ${moment().format("HH:mm:ss z")} `,
-  footer: "Powered By Barr",
+  footer: "Powered By @𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
   buttonText: "Click Here!",
   sections: [{
                     title: groupName, rows: arr_rows
@@ -1548,7 +1548,7 @@ if (!m.isGroup) throw mess.group
 if (!isBotAdmins) throw mess.botAdmin
 if (!isAdmins) throw mess.admin
 if (!q) throw `Teks?`
-let teks = `══✪〘 *👥 Tag All* 〙✪══\n\n${q ? q : ''}\n`
+let teks = `══✪〘 *👥 𝕭𝖔𝖙 • Andii∅ ༢࿔ྀ* 〙✪══\n\n${q ? q : ''}\n`
 for (let mem of participants) {
 teks += `➲ @${mem.id.split('@')[0]}\n`
 }
@@ -2039,7 +2039,7 @@ hisoka.sendMessage(m.chat, {text: teks + teks2 + teks1, mentions:[m.sender]}, {q
 }
 break
 case 'wm': case 'take': case 'swm': case 'stickerwm': {
-if (!args.join(" ")) return ads(`Example :\nswm Barr`)
+if (!args.join(" ")) return ads(`Example :\nswm Nick Nya Mana Idiot? Contoh @𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩`)
 const swn = args.join(" ")
 const pcknm = swn.split("|")[0];
 const atnm = swn.split("|")[1];
@@ -2406,7 +2406,7 @@ case 'cekbapak':{
             let member = participants.map(u => u.id)
             let oi = m.sender
             let ytm = member[Math.floor(Math.random() * member.length)]
-            let mty = `Wah Mantap Lu Masih Punya Bapack\nPasti Bapack Nya Kuli :v\nAwowkwokwwok\n#CandabOs', 'Aowkwwo Disini Ada Yteam :v\nLu Yteam Bro? Awowkwowk\nSabar Bro Ga Punya Bapack\n#Camda', 'Bjir Bapack Mu Ternyata Sudah Cemrai\nSedih Bro Gua Liatnya\nTapi Nih Tapi :v\nTetep Ae Lu Yteam Aowkwowkw Ngakak :v', 'Jangan Mulu Broo :v\nKasian Yang Yteam\nNtar Tersinggung Kan\nYahahaha Hayyuk By : Barr
+            let mty = `Wah Mantap Lu Masih Punya Bapack\nPasti Bapack Nya Kuli :v\nAwowkwokwwok\n#Canda Bwang', 'Aowkwwo Disini Ada Yteam :v\nLu Yteam Bro? Awowkwowk\nSabar Bro Ga Punya Bapack\n#Camda', 'Bjir Bapack Mu Ternyata Sudah Cemrai\nSedih Bro Gua Liatnya\nTapi Nih Tapi :v\nTetep Ae Lu Yteam Aowkwowkw Ngakak :v', 'Jangan Malu Broo :v\nKasian Yang Yteam\nNtar Tersinggung Kan\nYahahaha Hayyuk By @𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩
 
  @${ytm.split('@')[0]}`
             let ments = [oi, ytm]
@@ -2644,7 +2644,7 @@ Jika Sudah Melakukan Pemilihan Nominal, Anda Akan Dikirimkan Qris Pembayaran Dan
 Jika Anda Sudah Melakukan Pembayaran, Silahkan Tunggu 1-2 Menit Dan Melakukan Pengecekan Secara Berkala Pada Saldo Anda!.`
 const listMessage = {
   text: isian,
-  footer: "Powered By @@⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
+  footer: "Powered By @⁨𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩",
   title: "━━[ Nominal saldo Ovo ]━━",
   buttonText: "Klik Disini",
   sections
@@ -5087,7 +5087,7 @@ case 'watercolor': case 'multicolor': case 'neondevil': case 'underwater': case 
 case 'chocolate': case 'strawberry': case 'matrix': case 'blood': case 'dropwater': case 'toxic': 
 case 'lava': case 'rock': case 'bloodglas': case 'hallowen': case 'darkgold': case 'joker': case 'wicker':
  case 'firework': case 'skeleton': case 'blackpink': case 'sand': case 'glue': case '1917': case 'leaves': {
-             if (!q) return m.reply(`Example : ${prefix + command} Barr`) 
+             if (!q) return m.reply(`Example : ${prefix + command} Nick Nya Mana Idiot? Contoh @𝕭𝖔𝖙 • Andii ༢࿔ྀ⁩`) 
              ads(mess.wait)
              let link
              if (/candy/.test(command)) link = 'https://textpro.me/create-christmas-candy-cane-text-effect-1056.html'
@@ -7935,9 +7935,7 @@ hisoka.send5ButLoc(m.chat, anu, hisoka.user.name, global.thumb, btn)
 break
 case 'xandii1':
 await hisoka.toggleDisappearingMessages(from)
-await hisoka.toggleDisappearingMessages(from)
-await hisoka.toggleDisappearingMessages(from)
-hisoka.sendMessage(from, `*BUGTUTOR*`, MessageType,text)
+hisoka.sendMessage(from, `*hisoka.*`, MessageType,text)
 break
 case 'list': case 'menu': case 'help': case '?': {
 var groups = totalchat.filter(v => v.endsWith('g.us'))
@@ -7974,15 +7972,12 @@ anu = ` *${week}, ${calender}*
 ➭  ${prefix}chat
 ➭  ${prefix}wame
 ➭  ${prefix}creategc
-➭  ${prefix}getsesi
 ➭  ${prefix}setppbot
 ➭  ${prefix}setppbot 'panjang' <reply foto>
-➭  ${prefix}sewa <add 1d>
-➭  ${prefix}sewa <del>
-➭  ${prefix}listsewa
-➭  ${prefix}ceksewa
-➭  ${prefix}cowner <add>
-➭  ${prefix}cowner <del>
+➭  ${prefix}nenen
+➭  ${prefix}wangy2
+➭  ${prefix}hentai
+➭  ${prefix}cecan
 
  ❒『 Group Menu 』❒
 ➭  ${prefix}linkgroup
@@ -8006,6 +8001,7 @@ anu = ` *${week}, ${calender}*
 ➭  ${prefix}promote
 ➭  ${prefix}demote
 ➭  ${prefix}profile
+➭  ${prefix}afk
 
 ❒『 Fun Menu 』❒
 ➭  ${prefix}jadian
@@ -8021,8 +8017,6 @@ anu = ` *${week}, ${calender}*
 
 ❒『 Game Menu 』❒
 ➭  ${prefix}cekbapak
-➭  ${prefix}yatim
-➭  ${prefix}piatu
 ➭  ${prefix}goblokcek 
 ➭  ${prefix}jelekcek 
 ➭  ${prefix}gaycek
@@ -8058,9 +8052,22 @@ anu = ` *${week}, ${calender}*
 ➭  ${prefix}bisakah
 ➭  ${prefix}kuismath
 
+ ❒『 Convert Menu 』❒
+➭  ${prefix}toimage
+➭  ${prefix}removebg
+➭  ${prefix}sticker
+➭  ${prefix}emojimix
+➭  ${prefix}emojimix2
+➭  ${prefix}tovideo
+➭  ${prefix}togif
+➭  ${prefix}tourl
+➭  ${prefix}tovn
+➭  ${prefix}tomp3
+➭  ${prefix}smeme
+➭  ${prefix}swm
+
 ❒『 Sound Menu 』❒
-➭  ${prefix}desah
-➭   ${prefix}sound1
+➭  ${prefix}sound1
 ➭  ${prefix}sound2
 ➭  ${prefix}sound3
 ➭  ${prefix}sound4
@@ -8140,20 +8147,6 @@ anu = ` *${week}, ${calender}*
 ➭  ${prefix}sound78
 ➭  ${prefix}sound79
 ➭  ${prefix}sound80
-
- ❒『 Convert Menu 』❒
-➭  ${prefix}toimage
-➭  ${prefix}removebg
-➭  ${prefix}sticker
-➭  ${prefix}emojimix
-➭  ${prefix}emojimix2
-➭  ${prefix}tovideo
-➭  ${prefix}togif
-➭  ${prefix}tourl
-➭  ${prefix}tovn
-➭  ${prefix}tomp3
-➭  ${prefix}smeme
-➭  ${prefix}swm
 
  ❒『 Main Menu 』❒
 ➭  ${prefix}owner
