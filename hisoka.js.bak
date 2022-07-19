@@ -2361,16 +2361,6 @@ hisoka.sendMessage(m.chat, buttonMessage, { quoted: ftroli })
 })
 }
 break
-case 'welcome': {
-if (!m.isGroup) return
-await replyTemplate(`Welcome Kak\nPatuhi Rules Deskripsi Ya Kak\nJika Ingin SewaBot ketik #sewabot ya kak😁!!!`)
-}
-break
-case 'bye': {
-if (!m.isGroup) return
-await replyTemplate(`Awogwogwog Anak Kontol Baru Aja Keluar🗿`)
-}
-break
 case 'sewa':
 if (!m.key.fromMe && !isCreator) return m.reply(mess.owner)
 if (!m.isGroup) return m.reply(mess.group)
