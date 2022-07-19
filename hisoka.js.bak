@@ -8008,20 +8008,16 @@ anu = ` *${week}, ${calender}*
 ➭  ${prefix}profile
 
 ❒『 Fun Menu 』❒
-➭  ${prefix}simih
+➭  ${prefix}jadian
 ➭  ${prefix}halah
 ➭  ${prefix}hilih
 ➭  ${prefix}huluh
 ➭  ${prefix}heleh
 ➭  ${prefix}holoh
-➭  ${prefix}jadian
 ➭  ${prefix}jodohku
 ➭  ${prefix}delttt
 ➭  ${prefix}tictactoe
 ➭  ${prefix}family100
-➭  ${prefix}tebak]
-➭  ${prefix}math
-➭  ${prefix}suitpvp
 
 ❒『 Game Menu 』❒
 ➭  ${prefix}cekbapak
@@ -8061,23 +8057,6 @@ anu = ` *${week}, ${calender}*
 ➭  ${prefix}kapankah
 ➭  ${prefix}bisakah
 ➭  ${prefix}kuismath
-➭  ${prefix}tebak lagu
-➭  ${prefix}tebak gambar
-➭  ${prefix}tebak kata
-➭  ${prefix}tebak kalimat
-➭  ${prefix}tebak lirik
-➭  ${prefix}tebak lontong
-
-❒『 Random Menu 』❒
-➭  ${prefix}namapeople
-➭  ${prefix}faktaunik
-➭  ${prefix}katabijak
-➭  ${prefix}pantun
-➭  ${prefix}bucin
-➭  ${prefix}quotes
-➭  ${prefix}randomnama
-➭  ${prefix}anjing
-➭  ${prefix}bucinstick
 
 ❒『 Sound Menu 』❒
 ➭  ${prefix}desah
@@ -8162,51 +8141,7 @@ anu = ` *${week}, ${calender}*
 ➭  ${prefix}sound79
 ➭  ${prefix}sound80
 
-❒『 Random Menu 』❒
-➭  ${prefix}namapeople
-➭  ${prefix}faktaunik
-➭  ${prefix}katabijak
-➭  ${prefix}pantun
-➭  ${prefix}bucin
-➭  ${prefix}quotes
-➭  ${prefix}randomnama
-➭  ${prefix}cry
-➭  ${prefix}kill
-➭  ${prefix}hug
-➭  ${prefix}pat
-➭  ${prefix}lick
-➭  ${prefix}kiss
-➭  ${prefix}bite
-➭  ${prefix}yeet
-➭  ${prefix}bully
-➭  ${prefix}bonk
-➭  ${prefix}wink
-➭  ${prefix}poke
-➭  ${prefix}nom
-➭  ${prefix}slap
-➭  ${prefix}smile
-➭  ${prefix}wave
-➭  ${prefix}awoo
-➭  ${prefix}blush
-➭  ${prefix}smug
-➭  ${prefix}glomp
-➭  ${prefix}happy
-➭  ${prefix}dance
-➭  ${prefix}cringe
-➭  ${prefix}cuddle
-➭  ${prefix}highfive
-➭  ${prefix}handhold
-➭  ${prefix}dadu
-➭  ${prefix}patrick
-➭  ${prefix}amongus
-➭  ${prefix}gawrgura
-➭  ${prefix}anjing
-➭  ${prefix}bucinstick
-
  ❒『 Convert Menu 』❒
-➭  ${prefix}attp
-➭  ${prefix}ttp
-➭  ${prefix}ttp1
 ➭  ${prefix}toimage
 ➭  ${prefix}removebg
 ➭  ${prefix}sticker
@@ -8217,10 +8152,6 @@ anu = ` *${week}, ${calender}*
 ➭  ${prefix}tourl
 ➭  ${prefix}tovn
 ➭  ${prefix}tomp3
-➭  ${prefix}tomp4
-➭  ${prefix}ebinary
-➭  ${prefix}dbinary
-➭  ${prefix}styletext
 ➭  ${prefix}smeme
 ➭  ${prefix}swm
 
